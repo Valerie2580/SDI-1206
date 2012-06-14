@@ -1,7 +1,7 @@
 
 //alert("JavaScript works!");
 // Valerie Sherman 6/1/2012 _ Deliverable 1
-
+//push to git repository
 	
 var string1 = " arrive to work at ";
 var string2 = "8 AM.";
